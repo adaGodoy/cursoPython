@@ -1,0 +1,39 @@
+11/5/2020
+Lo  mas importante:
+1 Aprender a programar desde cero
+    elementos de un lenguaje de programacion:
+        funciones
+        variables# estas pueden contener valores ya dados o 
+        guardar resultados de otras que sean operadas
+        clases
+        comentarios
+        tipos de datos
+        tipod de operadores:
+            operadores aritmeticos(+ - / * ** %)
+            operadores relacionales(< > == <= >= !=)
+            operadores logicos(or not and) 
+            #or al menos una de las dos cosas que se compara es cierta lo demas es cierto
+            |1 or 0 = 1|
+            y si las dos cosas son falsas es falso
+            |0 or 0 = 0|
+            #not niega o invierte si es verdadero o falso
+            |not(1) = 0|
+            |not(0) = 1| 
+            #and 
+            |1 and 1 = 1|si ambos son ciertas es verdadero
+            |1 and 0 = 0| o |0 and 1 = 0| es falso
+            |0 and 0 = 0| si ambas son falsas el resultado sera falso
+ESTRUCTURAS DE CONTROL DE FLUJO PARA PYTHON
+    if
+    for
+    while
+SOBREESCRIBIR
+ Es cuando a una variable que ya le dimos un nombre le asignemos uno nuevo
+    tipos de datos en python:
+        string(cadena)
+        int(numerico entero)
+        float(numerico decimal)
+        boolenano(verdadero o falso)
+        obj(objeto)
+
+  STRING
