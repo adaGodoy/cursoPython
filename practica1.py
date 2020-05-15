@@ -38,3 +38,31 @@ def mensaje ():#declaracion
 # notese que la identacion es necesaria para saber que pertenece a que
 
 mensaje()# llamando la funcion
+#tipos de operadores
+#Aritmeticos
+# suma +
+#resta -
+#multiplicacion *
+#division /
+# modulo %
+# exponente ** 
+#division entera //
+#de comparacion 
+#igual que == 
+#mayor qye >
+#menor que <
+#diferente que !=
+#mayor igual >=
+#menor igual que <=
+#logicos
+#and (y)
+#or(o)
+#not(negacion)
+#
+#
+#
+#
+#
+#
+#
+#
